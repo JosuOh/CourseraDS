@@ -7,12 +7,12 @@ methods of obtaining data from the SpaceX API, formatting the data, and visualiz
 
 ## Table of Contents
 
-1. [**Data Collection with API**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Data_Collection_yJPxhv2oU.ipynb)
-2. [**Data Collection with Web Scraping**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Data_Collection_with_Web_Scraping_nI89VIRCE.ipynb)
-3. [**Data Wrangling**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Data_Wrangling_9HnvfsJ5G.ipynb)
-4. [**EDA with SQL**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Exploratory_Data_Analysis_with_SQL__eqznon1EA.ipynb)
-5. [**EDA with Visulaization Lab**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Exploratory_Data_Analysis_with_Visualisation_Lab_jJkKVG6F1.ipynb)
-6. [**Interactive Visual Analytics with Folium**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Interactive_Visual_Analytics_with_Folium_M8uUhCmHY.ipynb)
+1. [**Data Collection with API**](https://github.com/JosuOh/CourseraDS/blob/main/ADS-Capstone/jupyter-labs-spacex-data-collection-api.ipynb)
+2. [**Data Collection with Web Scraping**](https://github.com/JosuOh/CourseraDS/blob/main/ADS-Capstone/jupyter-labs-webscraping.ipynb)
+3. [**Data Wrangling**](https://github.com/JosuOh/CourseraDS/blob/main/ADS-Capstone/labs-jupyter-spacex-data_wrangling_jupyterlite.jupyterlite.ipynb)
+4. [**EDA with SQL**](https://github.com/JosuOh/CourseraDS/blob/main/ADS-Capstone/jupyter-labs-eda-sql-coursera_sqllite.ipynb)
+5. [**EDA with Visulaization Lab**](https://github.com/JosuOh/CourseraDS/blob/main/ADS-Capstone/jupyter-labs-eda-dataviz.ipynb.jupyterlite.ipynb)
+6. [**Interactive Visual Analytics with Folium**]()
 7. [**Dash Coming Soon**]
 8. [**MMachine Learning Coming Soon**]
 9. [**Presentation Coming Soon**]
