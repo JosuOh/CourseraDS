@@ -12,7 +12,7 @@ methods of obtaining data from the SpaceX API, formatting the data, and visualiz
 3. [**Data Wrangling**](https://github.com/JosuOh/CourseraDS/blob/main/ADS-Capstone/labs-jupyter-spacex-data_wrangling_jupyterlite.jupyterlite.ipynb)
 4. [**EDA with SQL**](https://github.com/JosuOh/CourseraDS/blob/main/ADS-Capstone/jupyter-labs-eda-sql-coursera_sqllite.ipynb)
 5. [**EDA with Visulaization Lab**](https://github.com/JosuOh/CourseraDS/blob/main/ADS-Capstone/jupyter-labs-eda-dataviz.ipynb.jupyterlite.ipynb)
-6. [**Interactive Visual Analytics with Folium**]()
+6. [**Interactive Visual Analytics with Folium**](https://github.com/JosuOh/CourseraDS/blob/main/ADS-Capstone/Launch-Sites-Locations-Analysis-with-Folium.ipynb)
 7. [**Dash Coming Soon**]
 8. [**MMachine Learning Coming Soon**]
 9. [**Presentation Coming Soon**]
