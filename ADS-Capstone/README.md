@@ -1,5 +1,4 @@
-# Contains Applied Data Science Capstone Labs
-# by Joshua Oh
+# Contains Applied Data Science Capstone Labs </br> by Joshua Oh
 
 ## Introduction
 
