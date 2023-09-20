@@ -15,6 +15,6 @@ methods of obtaining data from the SpaceX API, formatting the data, and visualiz
 6. [**Interactive Visual Analytics with Folium**](https://github.com/JosuOh/CourseraDS/blob/main/ADS-Capstone/Launch-Sites-Locations-Analysis-with-Folium.ipynb) [(if notebook doesn't load)](https://github.com/JosuOh/CourseraDS/tree/main/ADS-Capstone/Folium%20Screenshots)
 7. [**Dash Application**](https://github.com/JosuOh/CourseraDS/blob/main/ADS-Capstone/spacex_dash_app.py)
 8. [**Machine Learning Prediction**](https://github.com/JosuOh/CourseraDS/blob/main/ADS-Capstone/SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite.ipynb)
-9. [**Presentation Coming Soon**]
+9. [**Final Presentation**](https://github.com/JosuOh/CourseraDS/blob/main/ADS-Capstone/Final%20Presentation%20-%20ADS.pdf)
 
 ##### © Copyright IBM Corporation 1994, 2022.
